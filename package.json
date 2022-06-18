@@ -1,0 +1,18 @@
+{
+  "name": "rendering-file-system-in-node-js",
+  "version": "1.0.0",
+  "description": "rendering files in node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "master"
+  },
+  "author": "redx1t",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
